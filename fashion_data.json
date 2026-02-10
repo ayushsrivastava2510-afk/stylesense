@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Black Oversized Hoodie",
+    "style": "streetwear",
+    "color": "black",
+    "category": "top"
+  },
+  {
+    "name": "Blue Denim Jeans",
+    "style": "casual",
+    "color": "blue",
+    "category": "bottom"
+  },
+  {
+    "name": "White Sneakers",
+    "style": "casual",
+    "color": "white",
+    "category": "shoes"
+  },
+  {
+    "name": "Leather Jacket",
+    "style": "streetwear",
+    "color": "black",
+    "category": "outerwear"
+  }
+]

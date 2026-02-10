@@ -1,0 +1,6 @@
+streamlit
+groq
+replicate
+python-dotenv
+pillow
+numpy
