@@ -75,7 +75,7 @@ high-quality fashion photography.
 """
 
     output = replicate.run(
-        "black-forest-labs/flux-1.1-pro",
+        "google/imagen-4",
         input={
             "prompt": prompt
         }
@@ -234,6 +234,7 @@ Why it works:
         if st.button("⬅ Back to Upload"):
             st.session_state.page = "input"
             st.rerun()
+
 
 
 
